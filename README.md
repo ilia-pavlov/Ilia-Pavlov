@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on make things easier
-- 🌱 I’m currently learning JS for [Cypress](https://www.npmjs.com/package/cypress-downloadfile)
+- 🌱 I’m currently digging JS
 - 🤔 I’m looking recomendation with any comments for my repos. 
 - 💬 Ask me about anything
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/ilia-pavlov-ny34722/), [Email](iliapavlov314@gmail.com)
