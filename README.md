@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on make things easier
-- 🌱 I’m currently digging in Swift
+- 🌱 I’m currently digging in Swift 🦅 
 - 🤔 I’m looking recomendation with any comments for my repos. 
 - 💬 Ask me about anything
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/ilia-pavlov-ny34722/), [Email](iliapavlov314@gmail.com)
