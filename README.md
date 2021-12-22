@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on make things easier
-- 🌱 I’m currently digging JS
+- 🌱 I’m currently digging in Swift
 - 🤔 I’m looking recomendation with any comments for my repos. 
 - 💬 Ask me about anything
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/ilia-pavlov-ny34722/), [Email](iliapavlov314@gmail.com)
@@ -13,12 +13,9 @@
 ### A bit about me
 <p>My name is Ilia.</p> 
 <dl>
-   <dd> • I work with creation and maintenance different automation test cases and scenarios with Selenium + Java, preparation and running TestNG + Jenkins, cross browser/cross platform  testing, strong experienced in Page Object Model method, preparation and running JUnit 4/Jupiter and BDD with Cucumber + Gherkin
-   </dd>   
-   <dd> • Functional, Regression and Smoke Testing for UI, by reproducing the steps, to make sure the build related to defect identified, biuld are working Fine and no new errors were introduced. 
-   <dd> • Experienced in Software Development Life Cycle (SDLC), Test Development Life Cycle (STLC or TDLC) and design
-      
-       • since pandemic I was started work with project on Python for Web using Pytest and behave
-               and I assume it'll be a good share a few things here. 
+  You're welcome here! Toons of playground coding, tasks, and of course automation architecture solutions. On Java and Python and coming up more soon on Swift.
 </dl>
+
+Also check my Youtube channel [24 steps Software QA Engineer](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
+for hack and tricks. 
 
