@@ -13,7 +13,7 @@
 ### A bit about me
 <p>My name is Ilia.</p> 
 <dl>
-  You're welcome here! Toons of playground coding, tasks, and of course automation architecture solutions. On Java and Python and coming up more soon on Swift.
+  You're welcome here! Tons playground coding, tasks, and of course automation architecture solutions. On Java and Python and coming up more soon on Swift.
 </dl>
 
 Also check my Youtube channel [24 steps Software QA Engineer](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
