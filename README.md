@@ -16,6 +16,6 @@
   You're welcome here! Tons playground coding, tasks, and of course automation architecture solutions. On Java and Python and coming up more soon on Swift.
 </dl>
 
-Also check my Youtube channel [24 steps Software QA Engineer](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
+Also check my Youtube channel [24 steps SDET's notes](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
 for hack and tricks. 
 
