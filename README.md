@@ -18,6 +18,6 @@
 - My talk about [Accessibility in SwiftUI](https://youtu.be/PbZlNedEii8?si=VewMH6LRI-5u8u7w)
 - Interesting stuff [XCUITest Architecture overview](https://www.youtube.com/watch?v=sTLhZ30ax5A)
 
-- Also check my Youtube channel [24 steps SDET's notes](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
+- Also check my Youtube channel [IT - 24 steps](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
 for hack and tricks. 
 
