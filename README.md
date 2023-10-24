@@ -1,23 +1,74 @@
-## Hello, let's talk 👋
+# 👋 Welcome to My Git Playground
+
+## Hi, I'm Ilia - Let's Connect! 🚀
+
+![left-right-human-brain-concept-textured-illustration-creative-left-and-right-part-of-human-brain-emotial-and-logic-parts-concept-with-social-and-business-doodle-illustration-of-left-side-and-art-stockpack-adobe-stock-1536x507](https://github.com/ilia-pavlov/Ilia-Pavlov/assets/68978403/b432588e-c3b7-4232-bb1a-2afd31466687)
+
+
+Hey there! I'm not your average iOS developer. Check this out:
+
+- 🚀 I create iOS magic
+- 🌱 Fluent in Swift 🦅
+- 🌟 Breaking boundaries in tech
+- 💡 Ask me anything, I have answers!
+- 🚀 Reach out: [Email](mailto:iliapavlov314@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ilia-pavlov-ny34722/)
+
+Fun Fact: 🏓 Ping pong is my secret to coding genius!
+
+## A Bit About Me
+
+Welcome to my electrifying world of iOS development and Swift wizardry. Brace yourself for a wild journey:
+
+<details>
+<summary style="font-size: 20px; font-weight: bold; cursor: pointer;">🚀 iOS Development Skills</summary>
+
+<br>
+
+[![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=ios&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit)
+[![SwiftUI](https://img.shields.io/badge/iOS-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/swiftui)
+[![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
+[![Core Data](https://img.shields.io/badge/iOS-Core_Data-informational?style=flat&logo=coredata&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/coredata)
+[![CocoaPods](https://img.shields.io/badge/iOS-CocoaPods-informational?style=flat&logo=cocoapods&logoColor=white&color=4AB197)](https://cocoapods.org/)
+[![Alamofire](https://img.shields.io/badge/iOS-Alamofire-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://github.com/Alamofire/Alamofire)
+[![Firebase](https://img.shields.io/badge/iOS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)](https://firebase.google.com/)
+[![Realm](https://img.shields.io/badge/iOS-Realm-informational?style=flat&logo=realm&logoColor=white&color=4AB197)](https://realm.io/)
+[![Fastlane](https://img.shields.io/badge/iOS-Fastlane-informational?style=flat&logo=fastlane&logoColor=white&color=4AB197)](https://fastlane.tools/)
+[![Swift Package Manager](https://img.shields.io/badge/iOS-SPM-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org/package-manager/)
+[![Xcode](https://img.shields.io/badge/iOS-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=4AB197)](https://developer.apple.com/xcode/)
+
+</details>
 
 
 
-- 🔭 Nice to be issued solver than criticize project
-- 🌱 Swift 🦅 lover
-- 💬 Ask me about anything
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/ilia-pavlov-ny34722/), [Email](iliapavlov314@gmail.com)
-- ⚡ Fun fact: I like ping pong!
 
+## 🎯 Featured Content
 
-### A bit about me
-<p>My name is Ilia.</p> 
-<dl>
-    Welcome, iOS developer enthusiasts! This is your haven for all things Swift. Dive into a world of coding playgrounds, stimulating tasks, and ingenious automation architecture solutions. Join us on a journey of Swift exploration and mastery.
-</dl>
+<details>
+<summary style="font-size: 20px; font-weight: bold; cursor: pointer;">📽️ Watch My Videos</summary>
 
-- My talk about [Accessibility in SwiftUI](https://youtu.be/PbZlNedEii8?si=VewMH6LRI-5u8u7w)
-- Interesting stuff [XCUITest Architecture overview](https://www.youtube.com/watch?v=sTLhZ30ax5A)
+1. **🌈 Unleash the Magic: Accessibility in SwiftUI** - [Watch my talk](https://youtu.be/PbZlNedEii8?si=VewMH6LRI-5u8u7w) and see how SwiftUI makes accessibility a breeze.
 
-- Also check my Youtube channel [IT - 24 steps](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) 
-for hack and tricks. 
+2. **🚀 Into the Matrix: XCUITest Architecture Overview** - Experience the future of app testing on [YouTube](https://www.youtube.com/watch?v=sTLhZ30ax5A).
 
+3. **🛠️ [Dependency Injection & Constructor Issues](https://youtu.be/6Z9aYmkIIkU?si=kI9pxpOmU2JJoZ4V) ** - I have a video where I explain Dependency Injection and how to solve injection constructor issues. Check it out to level up your knowledge!
+</details>
+
+## 💡 Did You Know?
+
+Here are five Swift secrets:
+
+1. Swift was born in 2014 and took the tech world by storm!
+
+2. SwiftUI made UI development a piece of 🍰.
+
+3. Accessibility features rock your app's usability.
+
+4. XCUITest is your testing superhero.
+
+5. IT - 24 Steps YouTube channel unveils coding hacks and tricks you won't believe!
+
+## 🚀 Dive Deeper
+
+Buckle up! My [YouTube channel - IT - 24 Steps](https://www.youtube.com/channel/UCtTMh7w0ifPUVD1atOfQimQ) takes you on a rollercoaster ride through the tech universe. It's a whirlwind of hacks, wisdom, and the occasional 🌪️.
+
+Let's create, explore, and code our way to infinity and beyond! 🚀🌌
