@@ -11,7 +11,9 @@ Hey there! I'm not your average iOS developer. Check this out:
 - 🌱 Fluent in Swift 🦅
 - 🌟 Breaking boundaries in tech
 - 💡 Ask me anything, I have answers!
-- 🚀 Reach out: [Email](mailto:iliapavlov314@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ilia-pavlov-ny34722/)
+- 🚀 Reach out: [![Gmail](https://img.shields.io/badge/Email-Gmail-critical?style=for-the-badge&logo=gmail)](mailto:iliapavlov314@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilia-pavlov-ny34722/)
+
 
 Fun Fact: 🏓 Ping pong is my secret to coding genius!
 
