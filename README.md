@@ -52,7 +52,10 @@ Welcome to my electrifying world of iOS development and Swift wizardry. Brace yo
 
 2. **🚀 Into the Matrix: XCUITest Architecture Overview** - Experience the future of app testing on [YouTube](https://www.youtube.com/watch?v=sTLhZ30ax5A).
 
-3. **🛠️ [Dependency Injection & Constructor Issues](https://youtu.be/6Z9aYmkIIkU?si=kI9pxpOmU2JJoZ4V) ** - I have a video where I explain Dependency Injection and how to solve injection constructor issues. Check it out to level up your knowledge!
+3. **🛠️ [Dependency Injection & Constructor Issues](https://youtu.be/6Z9aYmkIIkU?si=kI9pxpOmU2JJoZ4V)** - I have a video where I explain Dependency Injection and how to solve injection constructor issues. Check it out to level up your knowledge!
+
+4. **🧪[XCUITest] How to start? Lesson 1** - To see the code from this video, check the uiTest/how-to-start branch. [YouTube](https://youtu.be/ATb25pY6Sqo?si=dmzFI1moOG5N1Rb3).
+
 </details>
 
 ## 💡 Did You Know?
